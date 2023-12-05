@@ -1,0 +1,5 @@
+(declare-fun T0_2 () String)
+(declare-fun T1_2 () String)
+(declare-fun var_0xINPUT_15284 () String)
+(assert (and (= var_0xINPUT_15284 (str.++ T0_2 T1_2))(= 1 (str.len T0_2))))
+(check-sat)

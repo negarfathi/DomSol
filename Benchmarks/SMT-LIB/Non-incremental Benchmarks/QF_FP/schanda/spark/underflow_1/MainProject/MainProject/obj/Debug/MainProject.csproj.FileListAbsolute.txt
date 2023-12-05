@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\MainProject\MainProject\bin\Debug\MainProject.dll
+C:\Users\lenovo\source\repos\MainProject\MainProject\bin\Debug\MainProject.pdb
+C:\Users\lenovo\source\repos\MainProject\MainProject\obj\Debug\MainProject.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\MainProject\MainProject\obj\Debug\MainProject.dll
+C:\Users\lenovo\source\repos\MainProject\MainProject\obj\Debug\MainProject.pdb
+C:\Users\lenovo\source\repos\MainProject\MainProject\bin\Debug\TestProject.dll
+C:\Users\lenovo\source\repos\MainProject\MainProject\bin\Debug\TestProject.pdb
+C:\Users\lenovo\source\repos\MainProject\MainProject\obj\Debug\MainProject.csproj.CopyComplete

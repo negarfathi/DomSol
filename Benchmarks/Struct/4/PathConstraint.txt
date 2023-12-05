@@ -1,0 +1,1 @@
+!(myStruct.skoY * -3 <= myStruct.skoZ) && !(myStruct.skoX <= 0)

@@ -1,0 +1,1 @@
+oldvalid_0 == valid_1 && oldNULLbase_0 <= NULLbase_1

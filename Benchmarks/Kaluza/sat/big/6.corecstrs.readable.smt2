@@ -1,0 +1,6 @@
+(declare-fun M0_10 () String)
+(declare-fun P0_10 () String)
+(declare-fun PCTEMP_LHS_4_idx_0 () String)
+(assert (= M0_10 "a"))
+(assert (= P0_10 (str.++ PCTEMP_LHS_4_idx_0 M0_10)))
+(check-sat)

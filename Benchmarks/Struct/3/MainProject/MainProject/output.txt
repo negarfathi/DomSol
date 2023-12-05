@@ -1,0 +1,7 @@
+Path Constraint:
+((myStruct.h==0&&myStruct.v==myStruct.V&&myStruct.V>0&&myStruct.g>0&&0<=myStruct.c&&myStruct.c<1)&&(myStruct.h<0))
+
+Results:
+Unsatisfiable
+
+Execution Time: 744 ms

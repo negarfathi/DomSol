@@ -1,0 +1,7 @@
+Path Constraint:
+0<=obj1.flash()&&obj1.circuit()&&(obj1.nf()!=obj1.flash())&&(0>obj1.flash()+1)
+
+Results:
+Unsatisfiable
+
+Execution Time: 629 ms

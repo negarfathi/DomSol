@@ -1,0 +1,8 @@
+Path Constraint:
+3*myStruct.x1+3*myStruct.x2==1
+
+Results:
+(myStruct.x1, (0, 2))
+(myStruct.x2, (0, 2))
+
+Execution Time: 712 ms

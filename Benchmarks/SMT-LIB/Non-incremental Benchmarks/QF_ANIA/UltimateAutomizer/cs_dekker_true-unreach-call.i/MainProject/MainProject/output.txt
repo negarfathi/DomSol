@@ -1,0 +1,18 @@
+Path Constraint:
+funAddrthr1base==-1&&funAddrthr1offset==0&&old__CS_threadbase_0==__CS_threadbase_1
+
+Results:
+(funAddrthr1base, (-2, 0))
+(funAddrthr1offset, (0, 2))
+(old__CS_threadbase_0[0], ANY)
+(__CS_threadbase_1[0], ANY)
+(old__CS_threadbase_0[1], ANY)
+(__CS_threadbase_1[1], ANY)
+(old__CS_threadbase_0[2], ANY)
+(__CS_threadbase_1[2], ANY)
+(old__CS_threadbase_0[3], ANY)
+(__CS_threadbase_1[3], ANY)
+(old__CS_threadbase_0[4], ANY)
+(__CS_threadbase_1[4], ANY)
+
+Execution Time: 568 ms

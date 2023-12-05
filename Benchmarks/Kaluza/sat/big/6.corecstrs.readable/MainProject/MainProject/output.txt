@@ -1,0 +1,9 @@
+Path Constraint:
+M0_10=="a"&&P0_10==PCTEMP_LHS_4_idx_0+M0_10
+
+Results:
+(M0_10, a)
+(P0_10, ya)
+(PCTEMP_LHS_4_idx_0, y)
+
+Execution Time: 1928 ms

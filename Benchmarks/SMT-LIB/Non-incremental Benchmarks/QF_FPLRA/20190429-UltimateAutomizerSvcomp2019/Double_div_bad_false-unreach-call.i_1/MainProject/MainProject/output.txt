@@ -1,0 +1,7 @@
+Path Constraint:
+cse0==1.0&&cse0/(1.6)==cse0
+
+Results:
+(cse0, (0, 2))
+
+Execution Time: 619 ms

@@ -1,0 +1,6 @@
+(declare-fun PCTEMP_LHS_7 () String)
+(declare-fun T_8 () String)
+(declare-fun T_9 () String)
+(assert (= T_8 (str.++ "backgroundimage" PCTEMP_LHS_7)))
+(assert (= T_9 (str.++ T_8 "l")))
+(check-sat)

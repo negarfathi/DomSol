@@ -1,0 +1,1 @@
+(!obj1.rd1() || !obj1.rd2()) && obj1.circuit() && obj1.rd2() && !obj1.grn() && !obj1.org() && !(!obj1.rd1())

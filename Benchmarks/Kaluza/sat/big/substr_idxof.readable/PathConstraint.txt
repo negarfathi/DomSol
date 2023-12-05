@@ -1,0 +1,1 @@
+I0_8 == obj1.Length(PCTEMP_LHS_3) && T2_8 == PCTEMP_LHS_3 + T3_8 && !(PCTEMP_LHS_3 == "xyzaabcqwerty")

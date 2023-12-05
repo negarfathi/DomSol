@@ -1,0 +1,7 @@
+Path Constraint:
+(a1[i1]==e_0&&i1>=0&&i1<1)&&a_1==a1&&(a2[i1]==e_2&&i1>=0&&i1<1)&&a_3==a2&&(e_0==a2[i1]&&i1>=0&&i1<1)&&(e_2==a1[i1]&&i1>=0&&i1<1)&&a_1==a_3&&(a1!=a2)
+
+Results:
+Unsatisfiable
+
+Execution Time: 488 ms

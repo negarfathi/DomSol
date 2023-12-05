@@ -1,0 +1,45 @@
+Path Constraint:
+obj1.is_finite(a)&&obj1.is_finite(b)&&((a>b)&&(b>a))
+
+Results:
+(obj1.is_finite(b), True)
+(obj1.is_finite(a), True)
+(a, (-8, -6))
+(b, (-8, -6))
+
+(obj1.is_finite(b), True)
+(obj1.is_finite(a), True)
+(a, (-6, -4))
+(b, (-6, -4))
+
+(obj1.is_finite(b), True)
+(obj1.is_finite(a), True)
+(a, (-4, -2))
+(b, (-4, -2))
+
+(obj1.is_finite(b), True)
+(obj1.is_finite(a), True)
+(a, (-2, 0))
+(b, (-2, 0))
+
+(obj1.is_finite(b), True)
+(obj1.is_finite(a), True)
+(a, (0, 2))
+(b, (0, 2))
+
+(obj1.is_finite(b), True)
+(obj1.is_finite(a), True)
+(a, (2, 4))
+(b, (2, 4))
+
+(obj1.is_finite(b), True)
+(obj1.is_finite(a), True)
+(a, (4, 6))
+(b, (4, 6))
+
+(obj1.is_finite(b), True)
+(obj1.is_finite(a), True)
+(a, (6, 8))
+(b, (6, 8))
+
+Execution Time: 773 ms

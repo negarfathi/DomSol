@@ -1,0 +1,1 @@
+funAddrthr1base == -1 && funAddrthr1offset == 0 && old__CS_threadbase_0 == __CS_threadbase_1

@@ -1,0 +1,7 @@
+Path Constraint:
+(a__3*a__2)+(a__3*a__4*a__2)+(-1)>=0&&(a__4*a__4*a__2)+((-1)*a__2)>=0&&a__3>=0&&a__2>=0&&a__4>=0
+
+Results:
+Unsatisfiable
+
+Execution Time: 571 ms

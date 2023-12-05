@@ -1,0 +1,1 @@
+obj1.circuit() && obj1.rd2() && obj1.red_MR() && (obj1.grn_SR() || obj1.org_SR()) && !(obj1.prt() || !obj1.rd1())

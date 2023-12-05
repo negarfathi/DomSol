@@ -1,0 +1,45 @@
+Path Constraint:
+obj1.f(skoY)==3&&skoX<=1&&0<=skoZ&&0<=skoY&&(skoX>0)
+
+Results:
+(obj1.f(skoY), (1, 8.875))
+(skoZ, (0, 2))
+(skoY, (0, 2))
+(skoX, (0, 2))
+
+(obj1.f(skoY), (1, 8.875))
+(skoZ, (0, 2))
+(skoY, (2, 4))
+(skoX, (0, 2))
+
+(obj1.f(skoY), (1, 8.875))
+(skoZ, (2, 4))
+(skoY, (0, 2))
+(skoX, (0, 2))
+
+(obj1.f(skoY), (1, 8.875))
+(skoZ, (2, 4))
+(skoY, (2, 4))
+(skoX, (0, 2))
+
+(obj1.f(skoY), (1, 8.875))
+(skoZ, (4, 6))
+(skoY, (0, 2))
+(skoX, (0, 2))
+
+(obj1.f(skoY), (1, 8.875))
+(skoZ, (4, 6))
+(skoY, (2, 4))
+(skoX, (0, 2))
+
+(obj1.f(skoY), (1, 8.875))
+(skoZ, (6, 8))
+(skoY, (0, 2))
+(skoX, (0, 2))
+
+(obj1.f(skoY), (1, 8.875))
+(skoZ, (6, 8))
+(skoY, (2, 4))
+(skoX, (0, 2))
+
+Execution Time: 1063 ms

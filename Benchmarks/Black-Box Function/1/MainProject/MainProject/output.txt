@@ -1,0 +1,4 @@
+Path Constraint:
+(a[e_0]==e_2&&e_0>=0&&e_0<5)&&a_3==a&&(e_2!=e_5)
+
+Results:

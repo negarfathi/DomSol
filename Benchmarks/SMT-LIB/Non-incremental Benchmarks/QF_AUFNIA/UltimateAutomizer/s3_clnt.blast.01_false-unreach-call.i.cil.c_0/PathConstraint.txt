@@ -1,0 +1,1 @@
+obj1.funAddrssl3_connectbase() == -1 && obj1.funAddrssl3_connectoffset() == 0 && oldlength_4 == length_1

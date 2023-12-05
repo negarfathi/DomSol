@@ -1,0 +1,1 @@
+3 * myStruct.x1 + 3 * myStruct.x2 == 1

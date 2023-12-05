@@ -1,0 +1,1 @@
+1 * myStruct.x0 >= 0 && -1 * myStruct.x0 >= -1 && 1 * myStruct.x1 >= 0 && -1 * myStruct.x1 >= -1 && 1 * myStruct.x1 >= 1

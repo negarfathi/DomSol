@@ -1,0 +1,581 @@
+Path Constraint:
+(myStruct.skoY*-3>myStruct.skoZ)&&(myStruct.skoX>0)
+
+Results:
+(myStruct.skoY, (2, 4))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (2, 4))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (2, 4))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (2, 4))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (0, 2))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-8, -6))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-6, -4))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-4, -2))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (-2, 0))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-2, 0))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (6, 8))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (6, 8))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (6, 8))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-4, -2))
+(myStruct.skoZ, (6, 8))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (0, 2))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (2, 4))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (6, 8))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (6, 8))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (6, 8))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-6, -4))
+(myStruct.skoZ, (6, 8))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (4, 6))
+(myStruct.skoX, (6, 8))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (6, 8))
+(myStruct.skoX, (0, 2))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (6, 8))
+(myStruct.skoX, (2, 4))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (6, 8))
+(myStruct.skoX, (4, 6))
+
+(myStruct.skoY, (-8, -6))
+(myStruct.skoZ, (6, 8))
+(myStruct.skoX, (6, 8))
+
+Execution Time: 2008 ms

@@ -1,0 +1,1 @@
+obj1.is_finite(a) && obj1.is_finite(b) && !(a <= b || b <= a)

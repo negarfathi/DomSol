@@ -1,0 +1,8 @@
+(declare-fun I0_8 () Int)
+(declare-fun PCTEMP_LHS_3 () String)
+(declare-fun T2_8 () String)
+(declare-fun T3_8 () String)
+(assert (= I0_8 (str.len PCTEMP_LHS_3)))
+(assert (= T2_8 (str.++ PCTEMP_LHS_3 T3_8)))
+(assert (not (= PCTEMP_LHS_3 "xyzaabcqwerty")))
+(check-sat)

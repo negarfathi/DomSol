@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\TestProject\TestProject\bin\Debug\TestProject.dll
+C:\Users\lenovo\source\repos\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\lenovo\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\TestProject\TestProject\obj\Debug\TestProject.dll
+C:\Users\lenovo\source\repos\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\lenovo\source\repos\TestProject\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache

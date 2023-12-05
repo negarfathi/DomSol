@@ -1,0 +1,7 @@
+Path Constraint:
+(obj1.f1()!=obj1.f2())&&(1>obj1.f3())&&obj1.f4(4*obj1.f3()+1)==obj1.f1()
+
+Results:
+Unsatisfiable
+
+Execution Time: 465 ms

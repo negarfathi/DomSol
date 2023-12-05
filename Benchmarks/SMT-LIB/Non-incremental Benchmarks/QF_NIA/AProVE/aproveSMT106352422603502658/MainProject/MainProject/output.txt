@@ -1,0 +1,7 @@
+Path Constraint:
+(a__6*a__4)+((-1)*a__4)>=0&&a__4+(-1)>=0&&a__6>=0&&a__4>=0
+
+Results:
+Unsatisfiable
+
+Execution Time: 535 ms

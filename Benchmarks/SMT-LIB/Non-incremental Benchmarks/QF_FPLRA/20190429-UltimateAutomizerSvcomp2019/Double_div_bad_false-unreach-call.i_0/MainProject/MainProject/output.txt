@@ -1,0 +1,41 @@
+Path Constraint:
+main_x10==main_x0/(1.6)&&(1.0!=main_x0)
+
+Results:
+(main_x10, (-6, -4))
+(main_x0, (-8, -6))
+
+(main_x10, (-4, -2))
+(main_x0, (-8, -6))
+
+(main_x10, (-4, -2))
+(main_x0, (-6, -4))
+
+(main_x10, (-4, -2))
+(main_x0, (-4, -2))
+
+(main_x10, (-2, 0))
+(main_x0, (-4, -2))
+
+(main_x10, (-2, 0))
+(main_x0, (-2, 0))
+
+(main_x10, (0, 2))
+(main_x0, (0, 2))
+
+(main_x10, (0, 2))
+(main_x0, (2, 4))
+
+(main_x10, (2, 4))
+(main_x0, (2, 4))
+
+(main_x10, (2, 4))
+(main_x0, (4, 6))
+
+(main_x10, (2, 4))
+(main_x0, (6, 8))
+
+(main_x10, (4, 6))
+(main_x0, (6, 8))
+
+Execution Time: 647 ms

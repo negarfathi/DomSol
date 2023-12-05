@@ -1,0 +1,29 @@
+Path Constraint:
+obj1.is_finite(a)&&obj1.is_finite(b)&&a>obj1.f0()&&b>obj1.f0()&&(a*b<=obj1.f0())
+
+Results:
+(obj1.is_finite(b), True)
+(obj1.is_finite(a), True)
+(a, (0, 2))
+(b, (0, 2))
+(obj1.f0(), (0, 0))
+
+(obj1.is_finite(b), True)
+(obj1.is_finite(a), True)
+(a, (0, 2))
+(b, (2, 4))
+(obj1.f0(), (0, 0))
+
+(obj1.is_finite(b), True)
+(obj1.is_finite(a), True)
+(a, (2, 4))
+(b, (0, 2))
+(obj1.f0(), (0, 0))
+
+(obj1.is_finite(b), True)
+(obj1.is_finite(a), True)
+(a, (2, 4))
+(b, (2, 4))
+(obj1.f0(), (0, 0))
+
+Execution Time: 748 ms

@@ -1,0 +1,11 @@
+Path Constraint:
+obj1.f(x_0)<1&&x_0>1
+
+Results:
+(obj1.f(x_0), (0, 8))
+(x_0, (0, 2))
+
+(obj1.f(x_0), (0, 8))
+(x_0, (2, 4))
+
+Execution Time: 764 ms

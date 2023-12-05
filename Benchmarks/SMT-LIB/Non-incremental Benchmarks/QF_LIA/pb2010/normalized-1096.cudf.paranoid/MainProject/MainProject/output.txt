@@ -1,0 +1,8 @@
+Path Constraint:
+1*x0>=0&&-1*x0>=-1&&1*x1>=0&&-1*x1>=-1&&1*x1>=1
+
+Results:
+(x0, (0, 2))
+(x1, (0, 2))
+
+Execution Time: 611 ms

@@ -1,0 +1,1 @@
+obj1.f(skoY) == 3 && skoX <= 1 && 0 <= skoZ && 0 <= skoY && !(skoX <= 0)
